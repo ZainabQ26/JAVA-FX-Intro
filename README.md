@@ -47,7 +47,6 @@ java --module-path <path-to-javafx-lib> --add-modules javafx.controls,javafx.fxm
   -cp <compiled-output> CALC.CALC
 ```
 
-**Note:** This project is not Maven-based (no pom.xml), and does not produce target/*.jar by default.
 
 ## 📚 Key Concepts Demonstrated
 - JavaFX scene graph and layouts: BorderPane, GridPane, VBox, HBox, StackPane.
